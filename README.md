@@ -1,1 +1,1 @@
-# Analyse-des-donn-es-avec-Pandas
+Pandas est une bibliothèque Python fournissant un outil de structures de données rapide, flexible, pratique et expressif conçu pour rendre le travail avec des données « relationnelles » ou « étiquetées » à la fois simple et intuitif. Il vise à être le bloc de construction fondamental de haut niveau pour effectuer une analyse pratique et réelle de données complexes en Python.
